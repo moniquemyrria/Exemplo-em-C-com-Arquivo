@@ -1,0 +1,8 @@
+teclado
+80.000000
+monitor
+900.000000
+notebook
+1400.900024
+fonte
+30.330000
