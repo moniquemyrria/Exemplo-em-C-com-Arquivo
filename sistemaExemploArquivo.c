@@ -32,7 +32,7 @@ void menuCliente(ClienteCad cli);
 void listarProdutos();
 void listarClientes();
 void listarDadosCliente(ClienteCad cli);
-//Chamada de Funções
+//Chamada de FunÃ§Ãµes
 int verificaLoginDuplicado(char login[20], char senha[20]);
 
 //Chamada de Arquivos Globais
@@ -354,7 +354,7 @@ void listarClientes(){
 	}		
 }
 
-//Função verifica login existente 
+//FunÃ§Ã£o verifica login existente 
 int verificaLoginDuplicado(char login[20], char senha[20]){
 	int verificador = 0; 
 	
